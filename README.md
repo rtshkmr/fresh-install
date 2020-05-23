@@ -2,6 +2,9 @@
 
 install instructions thanks to the numerous times the dual boot system just breaks
 
+[ubuntu20 focal fossa common utils](https://linuxconfig.org/things-to-install-on-ubuntu-20-04)
+
+
 ## 0. Chrome  & Communications Install
 
 - Telegram Desktop
@@ -10,11 +13,15 @@ install instructions thanks to the numerous times the dual boot system just brea
 
 ## 1. Git Install and Cloning + Link OneDrive
 
+* install git, clone this repo
+
+
+
 One Drive linked via [RClone](https://www.linuxuprising.com/2018/07/how-to-mount-onedrive-in-linux-using.html)
     - rmb to add to startup scripts
 
 
-## 2. VS Code extensions
+## 2. VS Code install and extensions
 
 - VIM keymaps
 - formatters: 
@@ -30,6 +37,16 @@ One Drive linked via [RClone](https://www.linuxuprising.com/2018/07/how-to-mount
 - Install Rails: `gem install rails -v 5.2.3`
 
 - java install via vscode, have to [config OpenJDK path](https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users) and all
+
+
+## 4. communications & other utilities
+
+note that ubuntu 20 uses `gdebi` to install .deb package files
+
+
+* telegram 
+
+* teamviewer 
 
 ## Beautifying
 
